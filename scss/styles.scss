@@ -22,8 +22,11 @@
 //tours
 @use "tours-container";
 @use "tours-hero";
+//tourstwo
+@use "tours-page-two";
 //special offers
-
+@use "special-offers.scss";
 //blog
-
+@use "blog-content.scss";
 //contact
+@use "contact.scss";

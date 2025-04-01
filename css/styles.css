@@ -67,7 +67,7 @@ nav .logo .logo-name {
   justify-content: center;
   color: black;
   font-size: 20px;
-  font-family: "Gill Sans Nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   word-spacing: 4px;
   font-weight: 400;
   letter-spacing: 0.13rem;
@@ -82,7 +82,7 @@ nav .links a {
   color: black;
   text-decoration: none;
   font-size: 15px;
-  font-family: "Gill Sans Nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.13rem;
@@ -127,7 +127,7 @@ nav .links a {
   justify-content: center;
   color: white;
   font-size: 20px;
-  font-family: "Gill Sans Nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   word-spacing: 4px;
   font-weight: 400;
   letter-spacing: 0.13rem;
@@ -136,7 +136,7 @@ nav .links a {
 .footer-container .footer .footer-copyright {
   color: white;
   font-size: 12px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   word-spacing: 2px;
   font-weight: 400px;
 }
@@ -186,7 +186,7 @@ nav .links a {
   justify-content: center;
   margin-top: 172px;
   font-size: 60px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
   width: 100%;
   height: 68px;
@@ -197,7 +197,7 @@ nav .links a {
   max-width: 35%;
   height: auto;
   font-size: 20px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 400;
   font-style: italic;
   text-align: center;
@@ -211,7 +211,7 @@ nav .links a {
   background-color: #79addc;
   color: white;
   font-size: 15px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 400;
   cursor: pointer;
   margin-bottom: 93px;
@@ -277,12 +277,12 @@ nav .links a {
 .three-images .image-one strong {
   color: white;
   font-size: 60px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
 }
 .three-images .image-one strong {
   font-size: 30px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
 }
 .three-images .image-two {
@@ -304,12 +304,12 @@ nav .links a {
 .three-images .image-two strong {
   color: white;
   font-size: 60px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
 }
 .three-images .image-two strong {
   font-size: 30px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
 }
 .three-images .image-three {
@@ -331,12 +331,12 @@ nav .links a {
 .three-images .image-three strong {
   color: white;
   font-size: 60px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
 }
 .three-images .image-three strong {
   font-size: 30px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
 }
 
@@ -362,7 +362,7 @@ nav .links a {
   border-radius: 20px;
   cursor: pointer;
   font-size: 15px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 400;
 }
 
@@ -373,7 +373,7 @@ nav .links a {
 }
 .form-all h1 {
   font-size: 60px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
 }
 
@@ -391,7 +391,7 @@ nav .links a {
 .top-inputs input::placeholder {
   color: black;
   font-size: 18px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 300;
   padding-left: 20px;
   letter-spacing: 2px;
@@ -429,7 +429,7 @@ nav .links a {
   display: flex;
   align-items: center;
   min-width: 80px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 300;
   font-size: 18px;
   text-align: left;
@@ -449,7 +449,7 @@ nav .links a {
   padding-right: 40px;
 }
 .check-date .check .input-container input::placeholder {
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 300;
   color: black;
   font-size: 18px;
@@ -489,7 +489,7 @@ nav .links a {
   width: 210px;
 }
 .customers .customers-room .customers-line p {
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 300;
   font-size: 18px;
   text-align: left;
@@ -510,7 +510,7 @@ nav .links a {
   font-size: 16px;
 }
 .customers .customers-room .customers-line .customer-container input::placeholder {
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 300;
   font-size: 16px;
 }
@@ -539,7 +539,7 @@ nav .links a {
 .text-entry textarea::placeholder {
   color: black;
   text-align: left;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 300;
 }
 .text-entry button {
@@ -550,7 +550,7 @@ nav .links a {
   border: none;
   cursor: pointer;
   font-size: 15px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 400;
   margin-bottom: 100px;
   color: white;
@@ -567,7 +567,7 @@ nav .links a {
 .top-container .title-about p {
   font-size: 60px;
   letter-spacing: 6px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
   margin-bottom: -15px;
   text-transform: uppercase;
@@ -575,7 +575,7 @@ nav .links a {
 .top-container .paragraph-about {
   margin-top: 30px;
   font-size: 16px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 400;
   width: 100%;
   margin-bottom: 101px;
@@ -601,7 +601,7 @@ nav .links a {
   font-size: 40px;
   letter-spacing: 3px;
   word-spacing: 10px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
   margin-bottom: -6px;
   text-transform: uppercase;
@@ -630,7 +630,7 @@ nav .links a {
 }
 .bottom-container .quote .quote-text-author p {
   font-size: 16px;
-  font-family: "gill-sans-nova", sans-serif;
+  font-family: gill-sans-nova, sans-serif;
   font-weight: 400;
   font-style: italic;
 }
@@ -639,7 +639,7 @@ nav .links a {
   bottom: 0;
   right: 0;
   color: #79addc;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  ffont-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
   font-size: 20px;
 }
@@ -701,7 +701,7 @@ nav .links a {
 .tours-images h1,
 .tours-images strong {
   color: white;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
   position: absolute;
   text-align: center;
@@ -757,7 +757,285 @@ nav .links a {
   color: white;
   font-size: 60px;
   letter-spacing: 13px;
-  font-family: "proxima-nova-extra-condensed", sans-serif;
+  font-family: proxima-nova-extra-condensed, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
+}
+
+.specialOffers {
+  margin-top: 141px;
+  margin-bottom: 100px;
+}
+.specialOffers .special-title {
+  border-bottom: 2px solid black;
+  max-width: 210px;
+  min-height: 46px;
+  margin-bottom: 35.5px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: proxima-nova-extra-condensed, sans-serif;
+  letter-spacing: 1.35px;
+  display: flex;
+  align-items: center;
+}
+.specialOffers .specialOffer {
+  min-height: 287px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 60px;
+}
+.specialOffers .specialOffer .specialOffer-image {
+  height: 287px;
+  max-width: 199px;
+}
+.specialOffers .specialOffer .specialOfferInfo {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.specialOffers .specialOffer .specialOfferInfo .specialOfferInfoTitle {
+  max-width: 300px;
+  display: flex;
+  min-height: 46px;
+  margin-bottom: 21.5px;
+}
+.specialOffers .specialOffer .specialOfferInfo .specialOfferInfoTitle .orange-sale {
+  margin-top: 5px;
+  color: #ff7d38;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: proxima-nova-extra-condensed, sans-serif;
+}
+.specialOffers .specialOffer .specialOfferInfo .specialParagraph {
+  width: 290px;
+  height: 131px;
+  font-size: 16px;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@media screen and (max-width: 524px) {
+  .specialOffers {
+    margin-top: 270px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .specialOffers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .specialOffers .specialOffer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+  }
+  .specialOffers .specialOffer .specialOfferInfo {
+    margin-left: 0px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+  }
+  .specialOffers .specialOffer .specialOfferInfo .specialParagraph {
+    text-align: center;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 270px) {
+  .special-title {
+    text-align: center;
+  }
+}
+.blog-content {
+  margin-top: 152px;
+}
+.blog-content .blog-title {
+  border-bottom: 2px solid black;
+  width: 106px;
+  height: 46px;
+  margin-bottom: 35.5px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: proxima-nova-extra-condensed, sans-serif;
+  letter-spacing: 1.35px;
+}
+.blog-content .blog {
+  display: flex;
+  margin-bottom: 100px;
+}
+.blog-content .blog .dateBlog {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  background-color: #79addc;
+}
+.blog-content .blog .dateBlog .dayBlog {
+  font-size: 22px;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: bold;
+  padding-right: 18px;
+  padding-left: 18px;
+  margin-top: 9px;
+  color: white;
+}
+.blog-content .blog .dateBlog .monthBlog {
+  margin-top: -3px;
+  font-size: 12px;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: lighter;
+  margin-bottom: 9.6px;
+  color: white;
+}
+.blog-content .blog .blog-info .blog-image img {
+  max-width: 900px;
+  height: 259px;
+}
+.blog-content .blog .blog-info .blog-sub-title {
+  margin-top: 20px;
+  font-size: 15px;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: 500;
+}
+.blog-content .blog .blog-info .blog-paragraph {
+  margin-top: 11px;
+  color: #79addc;
+  font-size: 13px;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: 400;
+  max-width: 380px;
+  min-height: 90px;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 524px) {
+  .blog-content {
+    margin-top: 270px;
+  }
+  .blog-content .blog {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .blog-content .blog-info .blog-image img {
+    width: 100%;
+    height: auto;
+  }
+  .blog-content .blog-info .blog-sub-title {
+    font-size: 14px;
+  }
+  .blog-content .blog-info .blog-paragraph {
+    font-size: 12px;
+    max-width: 100%;
+    min-height: auto;
+  }
+  .blog-content .dateBlog {
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 350px) {
+  .blog-sub-title {
+    text-align: center;
+  }
+  .blog-paragraph {
+    text-align: center;
+  }
+}
+.contact {
+  margin-top: 152px;
+}
+.contact .contact-title {
+  border-bottom: 2px solid black;
+  max-width: 159px;
+  height: 50px;
+  margin-bottom: 35.5px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: proxima-nova-extra-condensed, sans-serif;
+  letter-spacing: 1.35px;
+}
+.contact .contact-all {
+  display: flex;
+  margin-bottom: 90px;
+}
+.contact .contact-all .left-contact-info .contact-image {
+  max-width: 400px;
+  height: 442px;
+}
+.contact .contact-all .left-contact-info .contact-info {
+  margin-top: 34px;
+  max-width: 400px;
+  height: 164px;
+}
+.contact .contact-all .left-contact-info .contact-info p {
+  margin-top: -15px;
+  font-size: 18px;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: 200px;
+}
+.contact .contact-all .right-contact-entry {
+  margin-left: 50px;
+}
+.contact .contact-all .right-contact-entry input {
+  max-width: 529px;
+  width: 100%;
+  height: 60px;
+  margin-bottom: 21px;
+  background-color: #f1f1f1;
+  border-style: none;
+  padding-left: 21px;
+  font-size: 16px;
+}
+.contact .contact-all .right-contact-entry textarea {
+  max-width: 529px;
+  width: 100%;
+  height: 199px;
+  padding: 18px 21px;
+  font-size: 16px;
+  font-family: gill-sans-nova, sans-serif;
+  background-color: #f1f1f1;
+  border: none;
+}
+.contact .contact-all .right-contact-entry .contact-send {
+  margin-top: 20px;
+  width: 167px;
+  height: 60px;
+  border: none;
+  background-color: #79addc;
+  color: white;
+  font-size: 16px;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 630px) {
+  .contact .contact-all {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact .contact-all .left-contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .contact .contact-all .right-contact-entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+  }
+}
+@media screen and (max-width: 524px) {
+  .contact {
+    margin-top: 270px;
+  }
 }

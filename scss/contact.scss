@@ -1,0 +1,102 @@
+@use "variables" as v;
+.contact {
+  // background-color: gray;
+  margin-top: 152px;
+  .contact-title {
+    border-bottom: 2px solid black;
+    max-width: 159px;
+    height: 50px;
+    margin-bottom: 35.5px;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    letter-spacing: 1.35px;
+  }
+  .contact-all {
+    display: flex;
+    margin-bottom: 90px;
+    .left-contact-info {
+      // background-color: lightcoral;
+      .contact-image {
+        max-width: 400px;
+        height: 442px;
+      }
+      .contact-info {
+        margin-top: 34px;
+        max-width: 400px;
+        height: 164px;
+        p {
+          margin-top: -15px;
+          font-size: 18px;
+          font-family: gill-sans-nova, sans-serif;
+          font-weight: 200px;
+          // background-color: lightblue;
+        }
+      }
+    }
+    .right-contact-entry {
+      // background-color: lightblue;
+      margin-left: 50px;
+      input {
+        max-width: 529px;
+        width: 100%;
+        height: 60px;
+        margin-bottom: 21px;
+        background-color: #f1f1f1;
+        border-style: none;
+        padding-left: 21px;
+        font-size: 16px;
+      }
+      textarea {
+        max-width: 529px;
+        width: 100%;
+        height: 199px;
+        padding: 18px 21px;
+        font-size: 16px;
+        font-family: gill-sans-nova, sans-serif;
+        background-color: #f1f1f1;
+        border: none;
+      }
+      .contact-send {
+        margin-top: 20px;
+        width: 167px;
+        height: 60px;
+        border: none;
+        background-color: #79addc;
+        color: white;
+        font-size: 16px;
+        font-family: gill-sans-nova, sans-serif;
+        font-weight: 500;
+      }
+    }
+  }
+}
+@media screen and (max-width:630px){
+.contact{
+  .contact-all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .left-contact-info{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .right-contact-entry{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin: 0;
+    }
+  }
+}
+}
+@media screen and (max-width:524px){
+.contact{
+  margin-top: 270px;
+}
+}
