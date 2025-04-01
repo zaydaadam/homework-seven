@@ -944,6 +944,10 @@ nav .links a {
   .blog-paragraph {
     text-align: center;
   }
+  .blog-title {
+    text-align: center;
+    margin: 0 auto;
+  }
 }
 .contact {
   margin-top: 152px;
@@ -1010,9 +1014,15 @@ nav .links a {
   font-size: 16px;
   font-family: gill-sans-nova, sans-serif;
   font-weight: 500;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 630px) {
+  .contact .contact-title {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+  }
   .contact .contact-all {
     display: flex;
     flex-direction: column;
